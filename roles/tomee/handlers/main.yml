@@ -1,0 +1,2 @@
+- name: restart tomee
+  service: name=tomee state=restarted
